@@ -113,13 +113,7 @@ Artinya terdapat 1 baris dan 3 kolom untuk menampilkan tiga produk, dicontoh kod
 ## Screenshot Program
 
 ### Tampilan Utama
-
-Masukkan screenshot hasil program di bagian ini.
-
 ![Tampilan Utama](screenshoot/PageLanding.png)
 
 ### Detail Produk
-
-Masukkan screenshot ketika tombol `DETAIL` ditekan.
-
 ![Detail Produk](screenshoot/DialogDetail.png)
